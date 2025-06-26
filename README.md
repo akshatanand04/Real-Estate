@@ -2,11 +2,6 @@
 
 A feature-rich real estate platform built using **HTML, CSS, JavaScript, and React**. This project enables users to browse and manage property listings with an intuitive interface, advanced search filters, and responsive design for seamless experience across all devices.
 
-## 🔗 Live Demo
-
-[Click Here to Visit](https://akshatanand04.github.io/Real-Estate/)
-
----
 
 ## 🚀 Features
 
